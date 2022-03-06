@@ -1,4 +1,4 @@
-## Hi there I'm Duygu 👋
+## Welcome there I'm Duygu 
 
 I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en), Turkey. I am passionate about creating, designing, and testing new solutions for solving real-life problems.
 
