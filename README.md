@@ -13,7 +13,7 @@ I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en),
 - Machine learning projects especially demand forecasting area :)
 - Research opportunities 
 
-##Connect with me: 
+### Connect with me: 
 
 <p align = "center">
 
