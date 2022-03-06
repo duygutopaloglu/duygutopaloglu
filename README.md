@@ -14,6 +14,7 @@ I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en),
 - Research opportunities 
 
 ##Connect with me: 
+
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/duygutopalolu)
@@ -22,6 +23,7 @@ I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en),
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@duygutopaloglu)
 
 </p>
+
 <!--
 **duygutopaloglu/duygutopaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
