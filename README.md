@@ -3,13 +3,16 @@
 I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en), Turkey. I am passionate about creating, designing, and testing new solutions for solving real-life problems.
 
 **My Research Area:**
+
 - Optimization and Data Science
 - Demand Forecasting with ML
-- Vehicle Rouiting Problems
+- Vehicle Routing Problems
 - Logistics System Design 
 
+
 **I am open to:**
-- Any colloboration work, 
+
+- Any collaboration work, 
 - Machine learning projects especially demand forecasting area :)
 - Research opportunities 
 
