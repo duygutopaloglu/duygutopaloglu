@@ -1,14 +1,14 @@
-### Hi there I'm Duygu 👋
+## Hi there I'm Duygu 👋
 
 I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en), Turkey. I am passionate about creating, designing, and testing new solutions for solving real-life problems.
 
-*My Research Area*
+###My Research Area:
 - Optimization and Data Science
 - Demand Forecasting with ML
 - Vehicle Rouiting Problems
 - Logistics System Design 
 
-**I am open to**
+###I am open to:
 - Any colloboration work, 
 - Machine learning projects especially demand forecasting area :)
 - Research opportunities 
