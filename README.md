@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there I'm Duygu 👋
 
+I am a Ph.D. candidate at [Pamukkale University](https://www.pau.edu.tr/pau/en), Turkey.
+
+Currently
 <!--
 **duygutopaloglu/duygutopaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
